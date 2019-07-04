@@ -1,12 +1,10 @@
-# Egenie Real Time Chat
-Real Chat Application built using VueJs, Pusher and Laravel 5.5.
+# Test job Slack Like Clone
+Test job built using VueJs, Pusher and Laravel 5.
 
 ## Project Setup
--  `git clone https://github.com/egeniegithub/real_time_chat.git`
--  Go into project directory "real_time_chat" and Run command 'composer install'
--  Create mysql database with the name "chat_app_assignment". Database user is root and password is empty. In case if you have different details, Simply goto your project root directory and edit .env file accordingly. 
+-  `git clone https://github.com/egeniegithub/Slack-Clone.git`
+-  Go into project directory "slack-clone" and Run command 'composer install'
+-  Create mysql database with the name "slack_clone_dbslack_clone_db". by default database user name is root and no password set. In case if you have any different details, Simply goto your project root directory and edit .env file accordingly. 
 -  Run command 'php artisan migrate'
 -  Run Command 'php artisan serve' and copy url and run onto your browser.
-- You can Register multiple users and use the application.
-
-  Nice job! Your application is running successfully.
+- Register user and use app.
